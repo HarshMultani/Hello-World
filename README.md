@@ -1,6 +1,5 @@
 # Hello-World
 
-Branch 2 changes
-
+Gol a little bit about git
 
 Branch 3 changes
