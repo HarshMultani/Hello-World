@@ -1,3 +1,3 @@
 # Hello-World
 
-The first changes made by me, to explore hoe git works
+The first changes made by me, to explore how git works
